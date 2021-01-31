@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta31&label=Profile%20views&color=0e75b6&style=flat" alt="gupta31" /> </p>
 
-- <!--🔭 I’m currently working in [TCS as a](Software Developer)-->
+<!--- 🔭 I’m currently working in [TCS as a](Software Developer)-->
 
 - 📫 How to reach me **sanchigupta123456@gmail.com**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/gupta31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gupta31" height="30" width="40" /></a>
 <a href="https://twitter.com/sanchi_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanchi_31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanchi-gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sanchi-gupta" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanchi-gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sanchi-gupta" height="30" width="40" /></a>-->
 <a href="https://fb.com/https://www.facebook.com/sanchi.gupta.75491" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sanchi.gupta.75491" height="30" width="40" /></a>
 <a href="https://instagram.com/sphinxlike_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sphinxlike_s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanchigupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sanchigupta" height="30" width="40" /></a>
