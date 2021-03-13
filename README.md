@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sanchigupta123456@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BWHaQinAnFsnB7Bubjj6k5-nJAb2kqqf/view?usp=drivesdk](https://drive.google.com/file/d/1BWHaQinAnFsnB7Bubjj6k5-nJAb2kqqf/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pAPjKD-CTA0heQ_ySHtMWckhZnVS4Ot7/view?usp=drivesdk](https://drive.google.com/file/d/1pAPjKD-CTA0heQ_ySHtMWckhZnVS4Ot7/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can analyze your handwriting;)**
 
