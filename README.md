@@ -10,6 +10,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pAPjKD-CTA0heQ_ySHtMWckhZnVS4Ot7/view?usp=drivesdk](https://drive.google.com/file/d/1pAPjKD-CTA0heQ_ySHtMWckhZnVS4Ot7/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can analyze your handwriting;)**
+- ⚡ Checkout my first Youtube video **https://www.youtube.com/watch?v=vr_-zNvvFFY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
