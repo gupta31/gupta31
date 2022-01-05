@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta31&label=Profile%20views&color=0e75b6&style=flat" alt="gupta31" /> </p>
 
-- 📝Checkout my first youtube video [www.youtube.com/watch?v=vr_-zNvvFFY](www.youtube.com/watch?v=vr_-zNvvFFY)
+- 📝Checkout my first youtube MLH swag unboxing video [www.youtube.com/watch?v=vr_-zNvvFFY](www.youtube.com/watch?v=vr_-zNvvFFY)
 
 - 📫 How to reach me **sanchigupta123456@gmail.com**
 
