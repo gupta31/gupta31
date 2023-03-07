@@ -5,6 +5,8 @@
 
 - 📝Checkout my first youtube MLH swag unboxing video [www.youtube.com/watch?v=vr_-zNvvFFY](www.youtube.com/watch?v=vr_-zNvvFFY)
 
+- 📝Checkout my first youtube about Functions & Macros(Side effects) video [https://youtu.be/oJjYDMt8mfA](https://youtu.be/oJjYDMt8mfA)
+
 - 📫 How to reach me **sanchigupta123456@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pAPjKD-CTA0heQ_ySHtMWckhZnVS4Ot7/view?usp=drivesdk](https://drive.google.com/file/d/1pAPjKD-CTA0heQ_ySHtMWckhZnVS4Ot7/view?usp=drivesdk)
